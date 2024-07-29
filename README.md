@@ -1,5 +1,5 @@
 # MITOCW-6.006-Introduction-To-Algorithms-Pset-Solutions
-My solutions to MITOCW 6.006 Introduction to Algorithms Fall 2011 class
+My solutions to MITOCW 6.006 Introduction to Algorithms Fall 2011 class's pset codes and write up and exams.
 
 For some Psets only the solution parts of the code may have been included.
 
