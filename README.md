@@ -6,3 +6,5 @@ For some Psets only the solution parts of the code may have been included.
 Taught by Prof. Erik Demaine, Prof. Srini Devadas and recitations by Prof. Victor Costan.
 
 Link to the course: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/
+
+Feel free to email me for any questions: benyamin.jazayeri@yahoo.com
